@@ -11,10 +11,12 @@ You can click the Preview link to take a look at your changes.
 --->
 Full Stack Dev <br/>
 
-MONGO DB
-EXPRESS JS
-REACT
-NODE JS
-ANGULAR
-CRUD
-REST 
+MONGO DB <br/>
+EXPRESS JS <br/>
+REACT <br/>
+NODE JS <br/>
+ANGULAR <br/>
+CRUD <br/>
+REST <br />
+Java <br/>
+SQL <br/>
