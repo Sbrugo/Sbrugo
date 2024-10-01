@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Sbrugo
-- 👀 I’m interested in quality art, modern websites and nature!  
-- 🌱 I’m currently learning tech development
-- 💞️ I’m looking to collaborate on great teams 
-- 📫 How to reach me brugosofi@gmail.com
-- 🌐 Languages English and Spanish 
+- 👋 Hi
+- 👀 I´m a Javascript Developer
+- 🌱 JS Frameworks 
+- 💞️ MERN Stack 
+- 📫 brugosofi@gmail.com
+- 🌐 English and Spanish 
 
 <!---
 Sbrugo/Sbrugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
